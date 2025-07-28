@@ -35,7 +35,6 @@ Ideal for showcasing skills in **log parsing**, **cybersecurity threat detection
 
 -How to build a simple but useful SOC analyst tool
 
-## 📁 Project Structure
 ---
 
 ## 🚧 Future Improvements
